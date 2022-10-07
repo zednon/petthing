@@ -1,0 +1,53 @@
+#side{
+    width: 29%;
+border-right: black solid 5px;
+    float: left;
+}
+
+#main {
+    width: 70%;
+   
+    float: right;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: lightgrey;
+    height: 50px;
+}
+
+nav li {
+    display: inline-block;
+    width: 20%;
+    margin-right: -4px;
+}
+
+#navBar {
+    padding: 5px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;  
+}
+
+h2{
+    text-align: center;
+}
+
+li {
+    padding: 2%;
+}
+
+#img2{
+    float: left;
+}
+
+body {
+    font-family: 'Mingzat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
